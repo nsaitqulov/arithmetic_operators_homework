@@ -1,8 +1,8 @@
 #Create a variable called 'number' and assign it the two-digit number
-a=45
+number=98
 #Find the reverse of the number and assign it to a variable called 'answer'.
-b=a%10
-c=a//10
-answer=b*10+c
-print(answer)
+x=number%10
+y=number//10
 #Print the answer variable
+answer=x*10+y
+print(answer)
